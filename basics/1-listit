@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls /holbertonschool-shell/basics )
+ls
