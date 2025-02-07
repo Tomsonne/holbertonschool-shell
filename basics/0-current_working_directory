@@ -1,2 +1,2 @@
-#!/bin/basics
-echo $pwd
+#!/bin/bash
+echo Â$(realpath -s 0-current_working_directory)
