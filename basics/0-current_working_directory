@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Â$(realpath -)
+echo Â$(realpath -s 0-current_working_directory)
