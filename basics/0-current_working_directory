@@ -1,1 +1,2 @@
-pwd
+#!/bin/basics
+echo $pwd
