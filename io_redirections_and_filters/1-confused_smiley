@@ -1,1 +1,2 @@
-echo -e "\042(ÃÃ”O)'"
+#!/bin/bash
+echo -e "\042(”O)'"
